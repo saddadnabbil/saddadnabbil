@@ -11,7 +11,7 @@
 </p>
 
 
-# About Me:
+## About Me:
 🔭 I’m currently working on Genecaft Labs Company<br>🌱 I’m currently learning PHP, Javascript, Technical SEO<br>💬 Ask me about Web Development and Other<br>📝 I love to write, so I try to share on twitter: [@saddadnabbil](https://twitter.com/saddadnabbil)<br>📫 Reach me via email: saddadnabbil@gmail.com
 
 
@@ -19,7 +19,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abeen.g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saddadnabbil) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saddadnabbil) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saddadnabbil) 
 
 
-# GitHub Stats:
+## GitHub Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saddadnabbil&theme=vue-dark)](https://git.io/streak-stats)
 
 ---
