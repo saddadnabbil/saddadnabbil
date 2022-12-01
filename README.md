@@ -4,9 +4,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saddadnabbil&show_icons=true&theme=vue-dark" alt="Saddad Github Stats">
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=saddadnabbil&color=F4A4B5&style=flat" alt="Gading's Github Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=saddadnabbil&color=F4A4B5&style=for-the-badge" alt="Gading's Github Profile Views" />
   <a href="https://github.com/saddadnabbil?tab=followers">
-    <img src="https://img.shields.io/github/followers/saddadnabbil?label=Followers&logo=GitHub&style=flat" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/saddadnabbil?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </div>
 <br>
