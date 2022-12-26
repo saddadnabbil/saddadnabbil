@@ -12,7 +12,7 @@
 <br>
 
 ## About Me:
-🔭 I’m currently working on Genecaft Labs Company<br>🌱 I’m currently learning PHP, Javascript, Technical SEO<br>💬 Ask me about Web Development and Other<br>📝 I love to write, so I try to share on twitter: [@saddadnabbil](https://twitter.com/saddadnabbil)<br>📫 Reach me via email: saddadnabbil@gmail.com
+🔭 I’m currently working on Genecaft Labs Company<br>🌱 I’m currently learning PHP, Javascript, Technical SEO<br>💬 Ask me about Web Development and Other<br>📝 I love to write, so I want to develop personal blog in: [saddadnabbil.my.id](https://saddadnabbil.my.id/)<br>📫 Reach me via email: saddadnabbil@gmail.com
 
 
 ## Socials:
