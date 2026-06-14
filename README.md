@@ -3,16 +3,11 @@
 Backend Developer · Indonesia  
 Laravel · Golang · REST API · MySQL · Docker · Linux
 
-<a href="https://linkedin.com/in/saddadnabbil">LinkedIn</a> · <a href="mailto:saddadnabbil@gmail.com">Email</a> · <a href="https://github.com/saddadnabbil">GitHub</a>
+<a href="https://saddadnabbil.my.id">Website</a> · <a href="https://linkedin.com/in/saddadnabbil">LinkedIn</a> · <a href="mailto:saddadnabbil@gmail.com">Email</a>
 
 ---
 
 ```text
-Saddad Nabbil
-@saddadnabbil
-
-19 public repositories   12 followers   0 stars
-
 Backend-focused developer building APIs, internal systems,
 e-commerce platforms, and production-ready web applications.
 ```
@@ -33,24 +28,12 @@ JavaScript   ███░░░░░░░░░░░░░░░░░░░�
 - Deploying applications with Docker, Linux servers, Nginx, and MySQL
 - Exploring AI-assisted applications, speech processing, and cloud infrastructure
 
-### Experience
+### Currently Improving
 
-**Backend Developer** · Global Indonesia School  
-Built internal systems for attendance, payroll, student registration, and operational workflows.
-
-**Backend & Web Developer** · Aquila Nickel Group  
-Worked on e-commerce and backend services, including payment, shipping API integration, and deployment.
-
-**Web Developer** · Cuprum Indonesia  
-Developed and optimized WordPress/Shopify websites, e-commerce features, and technical SEO improvements.
-
-### Selected Projects
-
-- **docker-laravel-mysql-nginx-starter** — Laravel, MySQL, and Nginx Docker environment template
-- **Chatbot_Open_AI** — AI chatbot integration project using OpenAI API
-- **final-project** — Sundanese speech translation research project using Python and machine learning
-- **uber-services** — TypeScript backend service experiment
-- **llama3_web** — Simple web interface experiment for Llama 3
+- Backend architecture and system design
+- Production deployment workflow
+- API security and performance optimization
+- Cloudflare-based web deployment
 
 ---
 
