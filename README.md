@@ -1,91 +1,59 @@
-<h1 align="center">Hi, I'm Saddad Nabbil 👋</h1>
+<h3>Hi, I'm <a href="https://github.com/saddadnabbil">Saddad Nabbil</a> 👋</h3>
 
-<h3 align="center">Backend Developer · Indonesia</h3>
+Backend Developer · Indonesia  
+Laravel · Golang · REST API · MySQL · Docker · Linux
 
-<p align="center">
-  <a href="https://linkedin.com/in/saddadnabbil">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:saddadnabbil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<a href="https://linkedin.com/in/saddadnabbil">LinkedIn</a> · <a href="mailto:saddadnabbil@gmail.com">Email</a> · <a href="https://github.com/saddadnabbil">GitHub</a>
 
 ---
 
-### 🧑‍💻 About Me
+```text
+Saddad Nabbil
+@saddadnabbil
 
-- 🔧 Backend-focused developer with experience in building scalable web applications, REST APIs, and database systems
-- 💻 Working with **PHP**, **Laravel**, **CodeIgniter**, **Golang**, and **MySQL**
-- 🐧 Experienced in **Linux server management**, **Docker deployment**, and **Nginx/Apache** configuration
-- 🛠️ Building backend systems for e-commerce, school management, and internal platforms
-- 🎯 Currently exploring **system design** and **cloud infrastructure**
+19 public repositories   12 followers   0 stars
 
----
+Backend-focused developer building APIs, internal systems,
+e-commerce platforms, and production-ready web applications.
+```
 
-### 🛠️ Tech Stack
+```text
+Public repository languages
+Python       ███████░░░░░░░░░░░░░░░░░  28.6%
+Swift        ███████░░░░░░░░░░░░░░░░░  28.6%
+TypeScript   ███░░░░░░░░░░░░░░░░░░░░░  14.3%
+HTML         ███░░░░░░░░░░░░░░░░░░░░░  14.3%
+JavaScript   ███░░░░░░░░░░░░░░░░░░░░░  14.3%
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4329?logo=codeigniter&logoColor=white" alt="CodeIgniter">
-  <img src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white" alt="Golang">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-</p>
+### Focus
 
----
+- Building backend services with Laravel, Golang, and Node.js
+- Designing REST APIs, authentication, database schemas, and admin dashboards
+- Deploying applications with Docker, Linux servers, Nginx, and MySQL
+- Exploring AI-assisted applications, speech processing, and cloud infrastructure
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saddadnabbil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddadnabbil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
----
-
-### 💼 Experience
+### Experience
 
 **Backend Developer** · Global Indonesia School  
-*Dec 2023 – Present* · Serang, Indonesia
-- Developed internal school management systems including payroll, attendance, and student registration using Laravel and Vue.js
-- Optimized MySQL queries and database indexing, reducing API response time by approximately 30%
-- Implemented secure backend practices including authentication, input validation, and CSRF protection
+Built internal systems for attendance, payroll, student registration, and operational workflows.
 
 **Backend & Web Developer** · Aquila Nickel Group  
-*Jan 2023 – Present* · Remote
-- Developed Italljet Indonesia e-commerce platform using Laravel and Golang for payment and shipping APIs
-- Managed Docker-based production deployment workflows
-- Handled production deployment and backend maintenance in Linux environments
+Worked on e-commerce and backend services, including payment, shipping API integration, and deployment.
 
 **Web Developer** · Cuprum Indonesia  
-*Feb 2023 – Present* · Remote
-- Developed and customized WordPress and Shopify websites based on business requirements
-- Integrated e-commerce features and payment workflows
-- Optimized website performance and implemented technical SEO improvements
+Developed and optimized WordPress/Shopify websites, e-commerce features, and technical SEO improvements.
 
----
+### Selected Projects
 
-### 🏆 Pinned Repositories
-
-| Repository | Description | Tech |
-|------------|-------------|------|
-| `docker-laravel-mysql-nginx-starter` | Laravel, MySQL, Nginx environment template with Docker | PHP, Docker |
-| `Chatbot_Open_AI` | AI Chatbot integration project | JavaScript |
-| `skripsi` | Sundanese Speech Translation System using CNN and Whisper | Python, Flask, TensorFlow |
-| `italjet-v2` | E-commerce platform backend | TypeScript |
-| `portfolio-next` | Personal portfolio website | TypeScript, Next.js |
+- **docker-laravel-mysql-nginx-starter** — Laravel, MySQL, and Nginx Docker environment template
+- **Chatbot_Open_AI** — AI chatbot integration project using OpenAI API
+- **final-project** — Sundanese speech translation research project using Python and machine learning
+- **uber-services** — TypeScript backend service experiment
+- **llama3_web** — Simple web interface experiment for Llama 3
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saddadnabbil&color=0e75b6&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=saddadnabbil&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
