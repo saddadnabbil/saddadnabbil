@@ -1,42 +1,41 @@
-<h3>Hi, I'm <a href="https://github.com/saddadnabbil">Saddad Nabbil</a> 👋</h3>
+# Saddad Nabbil
 
-Backend Developer · Indonesia  
-Laravel · Golang · REST API · MySQL · Docker · Linux
+Backend Engineer building reliable web systems with Laravel, Go, Docker, and PostgreSQL.
 
-<a href="https://saddadnabbil.my.id">Website</a> · <a href="https://linkedin.com/in/saddadnabbil">LinkedIn</a> · <a href="mailto:saddadnabbil@gmail.com">Email</a>
+I work on APIs, authentication, operational workflows, integrations, and the
+deployment practices that make an application dependable after it ships.
 
----
+## Featured work
 
-```text
-Backend-focused developer building APIs, internal systems,
-e-commerce platforms, and production-ready web applications.
-```
+### [VisionOps — Safety Operations Platform](https://visionops.saddadnabbil.my.id)
 
-```text
-Public repository languages
-Python       ███████░░░░░░░░░░░░░░░░░  28.6%
-Swift        ███████░░░░░░░░░░░░░░░░░  28.6%
-TypeScript   ███░░░░░░░░░░░░░░░░░░░░░  14.3%
-HTML         ███░░░░░░░░░░░░░░░░░░░░░  14.3%
-JavaScript   ███░░░░░░░░░░░░░░░░░░░░░  14.3%
-```
+An end-to-end Go platform that turns approved safety-camera detections into
+auditable incidents for human teams to acknowledge, resolve, and deliver.
 
-### Focus
+`Go` · `PostgreSQL` · `Docker` · `Cloudflare Tunnel` · `RBAC` · `Playwright`
 
-- Building backend services with Laravel, Golang, and Node.js
-- Designing REST APIs, authentication, database schemas, and admin dashboards
-- Deploying applications with Docker, Linux servers, Nginx, and MySQL
-- Exploring AI-assisted applications, speech processing, and cloud infrastructure
+- [Live demo](https://visionops.saddadnabbil.my.id)
+- [Source code](https://github.com/saddadnabbil/visionops)
+- Detection → incident correlation → human response → audit timeline → durable webhook delivery.
+- Includes tenant boundaries, role-based access, SSRF-safe webhook handling,
+  rate limits, transactional outbox retries, CI, and responsive browser tests.
 
-### Currently Improving
+## Engineering focus
 
-- Backend architecture and system design
-- Production deployment workflow
-- API security and performance optimization
-- Cloudflare-based web deployment
+- Designing backend services, REST APIs, authentication, and relational data models.
+- Building operational dashboards and integrations with reliable delivery flows.
+- Shipping Dockerized applications to Linux infrastructure with practical
+  security and observability controls.
+- Working primarily with Laravel, Go, PostgreSQL/MySQL, Docker, and Cloudflare.
 
----
+## Selected work
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saddadnabbil&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
+I am curating the repositories below around real backend and product-delivery
+work. VisionOps is the current flagship project; each pinned repository should
+show a clear problem, technical decisions, and a reproducible setup.
+
+## Find me
+
+- [Website](https://saddadnabbil.my.id)
+- [LinkedIn](https://linkedin.com/in/saddadnabbil)
+- [Email](mailto:saddadnabbil@gmail.com)
